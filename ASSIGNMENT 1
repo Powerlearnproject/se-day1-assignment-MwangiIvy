@@ -1,0 +1,47 @@
+Part 1: Introduction to Software Engineering
+1. Explain what software engineering is and discuss its importance in the technology industry.
+         Software engineering is systematic approach that consists of designing, developing, testing and maintaining of software applications.
+Software engineering enhance resource management in any project or business, which will be able to improve high productivity and better customer satisfaction and this will help build a competitive market edge.
+2.Identify and describe at least three key milestones in the evolution of software engineering.
+    In the 1960s and 1970s, software engineering started, practitioners obtained some formal methods for software design and development. Structured programming and flowcharts to represent algorithms were the programming languages that was been used. In 1968, a conference on software engineering was held, and the word “software engineering” was attained. software engineering has progressively evolved and in 1980s, object-oriented programming was developed. In the 1990s Agile software development methodologies came up which led to more flexibility in software management. Today software engineering has developed immensely to a well-established field with its own set of methodologies and tools.
+3.List and briefly explain the phases of the Software Development Life Cycle.
+     1. Planning Stage
+Planning is the pillar of the SDLC scheme. In this stage, the problem related to the software targets is clearly defined and the objectives of the system are presented. Predictive analysis and AI simulation tools are used to help project managers build a long-term pictorial in reference to resources, potential markets and risks.
+     2. Analysis Stage 
+After planning is done, in the analysis stage more specific details is required. It entails generating of system requirements where developers have to determine the functionality of the project. Evaluating different prototypes is done to obtain those that have the greatest potential. After this the market research is conducted.
+     3. Design Stage 
+System development project is design and prototyping take place. In this process it entails an extensive prototyping stage. This step of the system development life cycle can significantly eliminate the time needed to develop the software. 
+    4. Development Stage 
+In the development stage of SDLC, the system creation process produces a working solution. Developers write code and build the app according to the finalized requirements and specification documents.
+    5. Testing Stage 
+   The testing stage ensures the software features work appropriately and coherently to fulfill the users’ expectations. In this stage bugs, defects and errors can be detected and corrected.
+    6. Integration and Implementation Stage 
+ The software application is usually made available to the users in this stage that is after final testing. 
+    7. Maintenance Stage 
+ The important stage of the SDLC process is the maintenance stage, this is where the software is in use. During the first months of use, developers might face problems that weren’t detected during initial testing, hence they should be available to react to the reported issues and implement the necessary changes needed for the software to be stable and be used conveniently.
+4.Compare and contrast the Waterfall and Agile methodologies. Provide examples of scenarios where each would be appropriate.
+     Agile is a flexible method where it allows continuous feedback and operates on iterative progress of small manageable units of works. Examples of scenario is when agile method has flexible time of project completion where it accounts for experimenting with different directions. Waterfall methodology on the other hand is sequential and rigid, with each stage is completed in order. In scenario of project completion waterfall method focus on the fixed time schedule where each project phase must be completed before the next one begins.
+5.Describe the roles and responsibilities of a Software Developer, a Quality Assurance Engineer, and a Project Manager in a software engineering team.
+   Software developer is responsible for applying programming languages in writing codes and developing the software. He also maintenances the software and releases software updates. Quality assurance engineer performs vigorous testing of the software to detect any problems, so as to recognize them early and produce a high-quality product to the end user. team members, including Project manager in software is responsible for planning, executing and closing of projects. This includes leading the entire team of software developers and ensuring that software projects are completed on time, within budget, and to the satisfaction of the stakeholders. 
+6.Discuss the importance of Integrated Development Environments (IDEs) and Version Control Systems (VCS) in the software development process. Give examples of each.
+An integrated development environment (IDE) is a software application that assists programmers to develop software codes efficiently and it boosts in productivity. It has features that speeds up the process of coding like syntax highlighting and error detection. Examples are IntelliJ IDEA, Eclipse and Lazarus. Version control Systems, are software tools that aids in recording changes that have been made to files and it keeps track of the modifications done in codes this helps in back tracking if mistakes have occurred. Examples are Git and Bitbucket. deployments. 
+7. What are some common challenges faced by software engineers? Provide strategies to overcome these challenges.
+Broken SDLC Processes
+Lack of Predictability in Software Delivery
+Limited infrastructure/ resources
+Conflicting requirements
+Developer Burnout, and a Struggling People Well-Being
+8.Explain the different types of testing (unit, integration, system, and acceptance) and their importance in software quality assurance.
+Unit testing, entails testing the functionality of individual components of a software product. Importance, helps in identifying minor problems that may escalate to major problems.
+Integration testing, it involves testing of the integrated software modules as a unified group. Importance, ensure that each individual components of a software are working seamlessly 
+System testing, it involves testing the completely integrated software system to evaluate its compliance. Importance, it ensures the software systems quality is achieved and reduces the project risks.
+Acceptance testing, it involves quality assurance process where the software system is checked if it meets the end users needs, requirements and approvals. Importance, helps to verify whether the software meets the specified user requirements and resolves issues that may relate to user experience.
+#Part 2: Introduction to AI and Prompt Engineering
+1.Define prompt engineering and discuss its importance in interacting with AI models.
+  Prompt engineering is the process of refining and optimizing large language inputs to generative AI systems to create specific, high-quality outputs. Prompt engineering importance in interacting with AI models, helps to mitigate the ambiguity of the models and accelerate its process of understanding, compiling and interpreting data.
+2.Provide an example of a vague prompt and then improve it by making it clear, specific, and concise. Explain why the improved prompt is more effective.
+  Vague prompt
+    ‘’how to grow a start-up business’’
+   Specific prompt
+    ‘’what are the strategies to follow in growing a start-up business especially when marketing and advertising’’
+ A specific prompt enables to obtain the exact information that one will requires and filters of the irrelevant responses.
